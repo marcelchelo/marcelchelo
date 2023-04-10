@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marcelchelo 
 - 👀 I’m currently working on a personal project. An IOT solution for the construction industry. Click here to learn more: www.timestat.app
-- 🌱 I’m currently learning DEV-OPS on AWS, React-Redux toolkit. I've used them extensively on my projects, and MQTT protocol over Narrow Band networks. Learning by doing. 
+- 🌱 I’m currently working with AWS as Dev-Ops, React-Redux toolkit,  & Docker on my projects.  MQTT protocol over Narrow Band networks. Learning by doing. 
 - 💞️ I’m looking to collaborate IOT solutios, if you need help with arduino stuff HMU. 
-- 📫 How to reach me, email me.   marcelo.e.villalba@gmail.com
+- 📫 How to reach me, email me hello@marcelov.com
 
 <!---
 marcelchelo/marcelchelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marcelchelo 
+- 👋 Hi, I’m Marcelo
 - 👀 I’m currently working on a personal project. An IOT solution for the construction industry. Click here to learn more: www.timestat.app
 - 🌱 I’m currently working with AWS as Dev-Ops, React-Redux toolkit,  & Docker on my projects.  MQTT protocol over Narrow Band networks. Learning by doing. 
-- 💞️ I’m looking to collaborate IOT solutios, if you need help with arduino stuff HMU. 
+- 💞️ I’m looking to collaborate IOT solutios.
 - 📫 How to reach me, email me hello@marcelov.com
 
 <!---
